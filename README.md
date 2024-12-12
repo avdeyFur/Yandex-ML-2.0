@@ -6,4 +6,5 @@
 2. [Создание трех видов внимания](https://github.com/avdeyFur/Yandex-ML-2.0/blob/main/Types%20of%20attention.ipynb) с использованием PyTorch.
 3. [Разработка Ванильной RNN](https://github.com/avdeyFur/Yandex-ML-2.0/blob/main/VanillaRNN.ipynb) для генерации поэзии с нуля.
 4. [Классификация текстов](https://github.com/avdeyFur/Yandex-ML-2.0/blob/main/bert-text-classification.ipynb) с использованием BERT.
-5. [Многоклассовая классификация](https://github.com/avdeyFur/Yandex-ML-2.0/blob/main/machine-translation-from-alien-to-eng.ipynb) аудио файлов с  использованием CNN. 
+6. [Машинный перевод](https://github.com/avdeyFur/Yandex-ML-2.0/blob/main/machine-translation-from-alien-to-eng.ipynb) с "инопланетного" на английский, используя трансформеры с механизмом внимания.
+7. [Многоклассовая классификация](https://github.com/avdeyFur/Yandex-ML-2.0/blob/main/Audio%20Classification.ipynb) аудио файлов с  использованием CNN.
